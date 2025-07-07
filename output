@@ -1,0 +1,14 @@
+Input Code:
+int a = 5; float b = a + 3;
+
+Lexical Analysis Output:
+Keyword: int
+Identifier: a
+Operator: =
+Identifier: 5
+Keyword: float
+Identifier: b
+Operator: =
+Identifier: a
+Operator: +
+Identifier: 3
